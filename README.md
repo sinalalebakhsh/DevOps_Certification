@@ -141,7 +141,7 @@ git remote remove origin
 ```
 2.
 ```bash
-git remote add staging git@github.com:sinalalebakhsh/DevOps_Certification.git
+git remote add staging git@github.com:*****USERNAME*****/DevOps_Certification.git
 ```
 3.
 ```bash
@@ -151,6 +151,14 @@ Result:
 ```bash
   staging git@github.com:sinalalebakhsh/DevOps_Certification.git (fetch)
   staging git@github.com:sinalalebakhsh/DevOps_Certification.git (push)
+```
+4.
+You can develop it
+5.
+```bash
+git add .
+git commit -m " name it "
+git push -u staging main 
 ```
 
 
