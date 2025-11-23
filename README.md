@@ -175,4 +175,15 @@ My commitment to continuous learning and adaptation ensures that I stay at the f
 [![Telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dockerme)
 [![Instagram](https://img.shields.io/badge/instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dockerme)
 
-
+### How to Use This Repository +
+Clone the Repository:
+```bash
+git remote add staging git@github.com:sinalalebakhsh/DevOps_Certification.git
+```
+than check:
+```bash
+git remote -v
+```
+Result:
+  staging git@github.com:sinalalebakhsh/DevOps_Certification.git (fetch)
+  staging git@github.com:sinalalebakhsh/DevOps_Certification.git (push)
