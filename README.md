@@ -134,6 +134,26 @@ Clone the Repository:
 git clone https://github.com/AhmadRafiee/DevOps_Certification.git
 ```
 
+### Contribute
+1.
+```bash
+git remote remove origin
+```
+2.
+```bash
+git remote add staging git@github.com:sinalalebakhsh/DevOps_Certification.git
+```
+3.
+```bash
+git remote -v
+```
+Result:
+```bash
+  staging git@github.com:sinalalebakhsh/DevOps_Certification.git (fetch)
+  staging git@github.com:sinalalebakhsh/DevOps_Certification.git (push)
+```
+
+
 ### Navigate the Sections:
 Each section contains its own folder with code examples, documentation, and tutorials. Follow the step-by-step instructions provided in each section to learn and apply the DevOps concepts.
 
@@ -175,17 +195,3 @@ My commitment to continuous learning and adaptation ensures that I stay at the f
 [![Telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dockerme)
 [![Instagram](https://img.shields.io/badge/instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dockerme)
 
-### How to Use This Repository +
-Clone the Repository:
-```bash
-git remote add staging git@github.com:sinalalebakhsh/DevOps_Certification.git
-```
-than check:
-```bash
-git remote -v
-```
-Result:
-```bash
-  staging git@github.com:sinalalebakhsh/DevOps_Certification.git (fetch)
-  staging git@github.com:sinalalebakhsh/DevOps_Certification.git (push)
-```
