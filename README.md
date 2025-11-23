@@ -185,5 +185,7 @@ than check:
 git remote -v
 ```
 Result:
+```bash
   staging git@github.com:sinalalebakhsh/DevOps_Certification.git (fetch)
   staging git@github.com:sinalalebakhsh/DevOps_Certification.git (push)
+```
